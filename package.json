@@ -1,0 +1,19 @@
+{
+  "name": "js-iso8601",
+  "version": "1.0.0",
+  "description": "Universal JavaScript Date.parse for ISO 8601",
+  "main": "iso8601.min.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "open tests/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/csnover/js-iso8601.git"
+  },
+  "author": "Colin Snover <http://zetafleet.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/csnover/js-iso8601"
+}
